@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Steve\\OneDrive\\AI\\HalitGame\\bot25\\tsmlstarterbot\\..\\models\\model_long_training.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\Steve\\OneDrive\\AI\\HalitGame\\bot25\\tsmlstarterbot\\..\\models\\model_long_training.ckpt"
